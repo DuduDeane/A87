@@ -1,0 +1,11 @@
+body{
+    cursor: pointer;
+}
+#mycanvas{
+    border: 10px;
+    background-color: rgb(255, 255, 255);
+    border-style:ridge;
+}
+input{
+    margin-right: 20px;
+}
